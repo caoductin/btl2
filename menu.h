@@ -85,6 +85,10 @@ void kiemtraphimnhap(int x,int y,string a[]){
 					inbangmenunhapthongtinruou(6,4,5);
 					kt=false;
 				}
+				if(y==10){
+					system("cls");
+					kt=false;
+				}
 			break;
 				
 		}

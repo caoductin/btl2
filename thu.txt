@@ -1,0 +1,15 @@
+
+- Ma : tin
+-ten san pham : tin
+-Xuat xu : tin
+- Dung tich : 2342
+- Nong do : 23423
+- Gia ban : 23423
+##########
+- Ma : fdjfjdf
+-ten san pham : dfkjdfk
+-Xuat xu : dfdjf
+- Dung tich : 234
+- Nong do : 324
+- Gia ban : 234
+##########
